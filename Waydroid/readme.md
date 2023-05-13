@@ -9,3 +9,5 @@ discuss:
 
 # Home
 https://waydro.id/
+
+install: https://docs.waydro.id/usage/install-on-desktops
