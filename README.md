@@ -1,4 +1,8 @@
-# Android-Apps-on-ARM-Linux
+# Android-Apps-on-Linux
+guide:
+- https://news.ycombinator.com/item?id=29793353
+
+# architecture: ARM
 sch: https://www.google.com/search?q=android+app+on+arm+linux, https://www.google.com/search?q=android+app+on+armbian, https://www.google.com/search?q=android+on+armbian
 
 guide: https://www.fosslinux.com/92365/how-to-run-android-apps-in-linux-without-an-emulator.htm
